@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: Thilina.Liyanage
+Build-Jdk: 11.0.5
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Created-By: Maven Integration for Eclipse
+Premain-Class: org.jacoco.agent.rt.internal
+
